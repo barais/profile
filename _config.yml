@@ -1,0 +1,10 @@
+# Site settings
+title: Profile project
+tag_text: PROFILE
+description: A CominLabs project
+
+# Build settings
+markdown: kramdown
+exclude: ["README.md"]
+sass:
+  style: compressed
