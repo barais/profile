@@ -1,7 +1,7 @@
 # Site settings
 title: Profile project
 tag_text: PROFILE
-description: A CominLabs project
+description: The profile project funded by CominLabs
 
 # Build settings
 markdown: kramdown
