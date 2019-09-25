@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-Profile is a [CominLabs](http://www.cominlabs.ueb.eu/) project.
+Profile is a [CominLabs](https://cominlabs.u-bretagneloire.fr/) project.
 
 **Goal**: Analyzing	and	mitigating	the	risks	of	online	profiling:	building	a	global
 perspective	at	the	intersection	of	law,	computer	science	and	sociology
